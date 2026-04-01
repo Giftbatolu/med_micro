@@ -1,0 +1,6 @@
+med_mic/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
